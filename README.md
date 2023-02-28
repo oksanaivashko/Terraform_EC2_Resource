@@ -1,3 +1,5 @@
+![session2](https://user-images.githubusercontent.com/108756145/221758409-3ba808f3-510d-492c-bad9-f8539697e7d3.png)
+
 # First EC2 resource created with Terraform 
 
  This repository creates a first resource ec2 instance, learn Arguments and Blocks, learn about providers and creates the terraform providers.tf file, learn about versions and creates the versions.tf file. 
