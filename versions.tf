@@ -7,26 +7,3 @@ terraform {
     }
   }
 }
-
-# Terraform = v1.3.7
-# AWS Provider = v4.53.0
-
-# Semantic Versioning 
-# v1.3.7
-# 1 = Major
-# 3 = Minor
-# 7 = Patch 
-# ">= 0.13, < 0.14" every patch version included
-# ~> 0.13 = 0.13.0 - 0.13.x
-# ~> = lazy constraints 
-# we nned version, they are not stable 
-
-#Terraform versions  
-
-#Providers plugins are released separately from Terraform itself 
-
-#They have a different set of versions number 
-
-#During “terraform init” command if you don’t specify versions, it will download the most recent version 
-
-#You should constraint the acceptable provider version with configuration file 
