@@ -1,3 +1,5 @@
+![TF](https://user-images.githubusercontent.com/108756145/222629143-d4450b85-8378-4820-abb4-9d17f0e362dd.png)
+
 
 # First EC2 resource created with Terraform 
 
